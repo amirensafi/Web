@@ -1,9 +1,29 @@
-.pic
+.pic1
 {
-    width: 300px;
+ width: 400px;
+
 }
-.font
+.tes
 {
-    display: flex;
-    font-size: 30px;
+    text-align: center;
 }
+.d
+{
+    color:   #8e44ad  ;
+}
+.c
+{
+    color:    #283747   ;
+}
+.f
+{
+    color:     #2ecc71     ;
+}
+.fm
+{
+    color:     #861ab8     ;
+    text-align: end;
+    background-color:orange;
+}
+
+
