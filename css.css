@@ -7,23 +7,46 @@
 {
     text-align: center;
 }
-.d
+.div1
 {
-    color:   #8e44ad  ;
+    text-align: center;
+    color: darkorchid;
 }
-.c
+.div2
 {
-    color:    #283747   ;
-}
-.f
-{
-    color:     #2ecc71     ;
-}
-.fm
-{
-    color:     #861ab8     ;
     text-align: end;
-    background-color:orange;
+    color: rgb(226, 24, 24);
 }
+.div3
+{
+    background-color: rgb(255, 248, 143);
+    text-align: end;
+    color: rgb(5, 5, 5);
+}
+.text
+{
+    text-align: center;
+}
+.text2
+{
+    background-color: rgb(135, 255, 14);
+    text-align:center;
+    color: crimson;
+}
+.ss
+{
+    color: rgb(226, 24, 24);
+    text-align:end;
+}
+.ff
+{
+    text-align: center;
+}
+.fff
+{
+    text-align: center;
+    color: tomato;
+}
+
 
 
